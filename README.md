@@ -42,7 +42,11 @@ needed:
 2. Extract the Project Locate CatFacts.zip (e.g., in your Downloads folder). Extract it to a directory, such as
    C:\Projects
 
-Verify the CatFacts folder contains: *CatFacts.csproj *Program.cs \*README.md (this file)
+Verify the CatFacts folder contains:
+
+> -  CatFacts.csproj
+> -  Program.cs
+> -  README.md (this file)
 
 3. Navigate to the Project Directory Open PowerShell. Change to the CatFacts directory:
 
@@ -52,7 +56,11 @@ Confirm you’re in the correct directory:
 
 > `dir`
 
-You should see CatFacts.csproj, Program.cs, README.md.
+You should see:
+
+> -  CatFacts.csproj
+> -  Program.cs
+> -  README.md (this file)
 
 4. Install Dependencies Install the Newtonsoft.Json package for JSON parsing:
 
