@@ -1,0 +1,17 @@
+C:\Users\escod\OneDrive\Documents\dotnet_projects\catfacts\bin\Debug\net8.0\catfacts.exe
+C:\Users\escod\OneDrive\Documents\dotnet_projects\catfacts\bin\Debug\net8.0\catfacts.deps.json
+C:\Users\escod\OneDrive\Documents\dotnet_projects\catfacts\bin\Debug\net8.0\catfacts.runtimeconfig.json
+C:\Users\escod\OneDrive\Documents\dotnet_projects\catfacts\bin\Debug\net8.0\catfacts.dll
+C:\Users\escod\OneDrive\Documents\dotnet_projects\catfacts\bin\Debug\net8.0\catfacts.pdb
+C:\Users\escod\OneDrive\Documents\dotnet_projects\catfacts\obj\Debug\net8.0\catfacts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\escod\OneDrive\Documents\dotnet_projects\catfacts\obj\Debug\net8.0\catfacts.AssemblyInfoInputs.cache
+C:\Users\escod\OneDrive\Documents\dotnet_projects\catfacts\obj\Debug\net8.0\catfacts.AssemblyInfo.cs
+C:\Users\escod\OneDrive\Documents\dotnet_projects\catfacts\obj\Debug\net8.0\catfacts.csproj.CoreCompileInputs.cache
+C:\Users\escod\OneDrive\Documents\dotnet_projects\catfacts\obj\Debug\net8.0\catfacts.dll
+C:\Users\escod\OneDrive\Documents\dotnet_projects\catfacts\obj\Debug\net8.0\refint\catfacts.dll
+C:\Users\escod\OneDrive\Documents\dotnet_projects\catfacts\obj\Debug\net8.0\catfacts.pdb
+C:\Users\escod\OneDrive\Documents\dotnet_projects\catfacts\obj\Debug\net8.0\catfacts.genruntimeconfig.cache
+C:\Users\escod\OneDrive\Documents\dotnet_projects\catfacts\obj\Debug\net8.0\ref\catfacts.dll
+C:\Users\escod\OneDrive\Documents\dotnet_projects\CatFacts\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\escod\OneDrive\Documents\dotnet_projects\CatFacts\obj\Debug\net8.0\CatFacts.csproj.AssemblyReference.cache
+C:\Users\escod\OneDrive\Documents\dotnet_projects\CatFacts\obj\Debug\net8.0\CatFacts.csproj.Up2Date
