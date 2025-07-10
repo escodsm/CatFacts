@@ -15,3 +15,4 @@ C:\Users\escod\OneDrive\Documents\dotnet_projects\catfacts\obj\Debug\net8.0\ref\
 C:\Users\escod\OneDrive\Documents\dotnet_projects\CatFacts\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\escod\OneDrive\Documents\dotnet_projects\CatFacts\obj\Debug\net8.0\CatFacts.csproj.AssemblyReference.cache
 C:\Users\escod\OneDrive\Documents\dotnet_projects\CatFacts\obj\Debug\net8.0\CatFacts.csproj.Up2Date
+C:\Users\escod\OneDrive\Documents\dotnet_projects\CatFacts\obj\Debug\net8.0\CatFacts.sourcelink.json
