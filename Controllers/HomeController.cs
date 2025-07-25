@@ -22,9 +22,8 @@ namespace CatFactsApp.Controllers
             }
             catch
             {
-                // Display error in UI
                 ViewBag.ErrorMessage = "Failed to load cat facts. Check logs for details.";
-                return View(new List<Models.CatFact>());
+                return View(new List<CatFactsApp.Models.CatFact>());
             }
         }
     }
