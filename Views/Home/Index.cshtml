@@ -1,0 +1,48 @@
+@model List<CatFactsApp.Models.CatFact>
+
+<h1>Cat Facts</h1>
+
+@if (ViewBag.ErrorMessage != null)
+{
+    <div class="alert alert-danger" role="alert">
+        @ViewBag.ErrorMessage
+    </div>
+}
+
+@if (Model.Any())
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Fact</th>
+                <th>Status</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var fact in Model)
+            {
+                <tr>
+                    <td>@fact.Text</td>
+                    <td>
+                        @if (fact.LogStatus == "SUCCESS")
+                        {
+                            <span class="badge bg-success">Success</span>
+                        }
+                        else if (fact.LogStatus == "WARNING")
+                        {
+                            <span class="badge bg-warning text-dark">Warning</span>
+                        }
+                        else
+                        {
+                            <span class="badge bg-danger">Error</span>
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No cat facts available.</p>
+}
