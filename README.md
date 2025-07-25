@@ -1,4 +1,4 @@
-# CatFactsApp
+# CatFacts
 
 ## Overview
 
@@ -50,7 +50,7 @@ Verify the CatFacts folder contains:
 
 3. Navigate to the Project Directory Open PowerShell. Change to the CatFacts directory:
 
-> `cd C:\Projects\CatFactsApp`
+> `cd C:\Projects\CatFacts`
 
 Confirm you’re in the correct directory:
 

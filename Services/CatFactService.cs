@@ -4,9 +4,9 @@ using System.IO;
 using System.Net.Http;
 using System.Text.Json;
 using System.Threading.Tasks;
-using CatFactsApp.Models;
+using CatFacts.Models;
 
-namespace CatFactsApp.Services
+namespace CatFacts.Services
 {
     public class CatFactService
     {

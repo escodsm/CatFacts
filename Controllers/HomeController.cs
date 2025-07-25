@@ -1,8 +1,8 @@
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using CatFactsApp.Services;
+using CatFacts.Services;
 
-namespace CatFactsApp.Controllers
+namespace CatFacts.Controllers
 {
     public class HomeController : Controller
     {
@@ -23,7 +23,7 @@ namespace CatFactsApp.Controllers
             catch
             {
                 ViewBag.ErrorMessage = "Failed to load cat facts. Check logs for details.";
-                return View(new List<CatFactsApp.Models.CatFact>());
+                return View(new List<CatFacts.Models.CatFact>());
             }
         }
     }

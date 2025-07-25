@@ -1,4 +1,4 @@
-namespace CatFactsApp.Models
+namespace CatFacts.Models
 {
     public class CatFact
     {

@@ -1,4 +1,4 @@
-﻿using CatFactsApp.Services;
+﻿using CatFacts.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
