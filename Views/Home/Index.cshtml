@@ -1,4 +1,4 @@
-@model IEnumerable<CatFacts.Models.CatFact>
+@model List<CatFacts.Models.CatFact>
 
 <h1>Cat Facts</h1>
 
@@ -6,7 +6,7 @@
 {
     <div style="color:red">@ViewBag.ErrorMessage</div>
 }
-else if (!Model.Any())
+else if (Model == null || !Model.Any())
 {
     <p>No cat facts available.</p>
 }
@@ -15,7 +15,10 @@ else
     <ul>
     @foreach (var fact in Model)
     {
-        <li>@fact.Text</li>
+        <li>
+            <strong>@fact.Text</strong><br />
+            <small>Status: @fact.LogStatus</small>
+        </li>
     }
     </ul>
 }
